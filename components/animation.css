@@ -1,0 +1,18 @@
+.Effect {
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+.divEffect {
+    background-color: aqua;
+    color: blue;
+}
+
+.Effect:hover {
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1)
+}
+
+
+div {
+    opacity: 1.0;
+ }
