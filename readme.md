@@ -2,11 +2,6 @@
 
 A dynamic and responsive college website developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This project aims to provide a clean, professional, and user-friendly interface for students, faculty, and visitors seeking information about a college and its offerings.
 
-## 🌐 Live Preview
-
-> Coming soon – You can clone the repo and open `index.html` to view locally.
-
----
 
 ## 🛠️ Features
 
@@ -25,8 +20,9 @@ A dynamic and responsive college website developed using **HTML**, **CSS**, **Ja
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
+- **PhP**
 - **Bootstrap 4**
+- **PhPMyadmin **
 
 ---
 
