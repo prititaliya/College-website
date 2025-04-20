@@ -23,7 +23,3 @@ A dynamic and responsive college website developed using **HTML**, **CSS**, **Ja
 - **PhP**
 - **Bootstrap 4**
 - **PhPMyadmin**
-
----
-
-## 📁 Project Structure
