@@ -1,6 +1,6 @@
 # 🎓 College Website
 
-A dynamic and responsive college website developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This project aims to provide a clean, professional, and user-friendly interface for students, faculty, and visitors seeking information about a college and its offerings.
+A dynamic and responsive college website developed using **HTML**, **CSS**, **php**, **phpmyadmin**, and **Bootstrap**. This project aims to provide a clean, professional, and user-friendly interface for students, faculty, and visitors seeking information about a college and its offerings.
 
 
 ## 🛠️ Features
